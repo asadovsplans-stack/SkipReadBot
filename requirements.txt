@@ -1,5 +1,0 @@
-aiogram>=3.0.0
-google-genai
-requests
-beautifulsoup4
-python-dotenv
